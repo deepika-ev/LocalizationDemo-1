@@ -11,3 +11,10 @@ func add(a: Int, b: Int) -> Int {
     print("addition \(a) + \(b) = \(a+b)")
     return a + b
 }
+func subtract(a: Int, b: Int) -> Int {
+    print(subtract)
+    return a - b
+    
+    
+    
+}
